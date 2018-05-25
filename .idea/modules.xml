@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/sun.iml" filepath="$PROJECT_DIR$/sun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun-account/sun-account.iml" filepath="$PROJECT_DIR$/sun-account/sun-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun-auth/sun-auth.iml" filepath="$PROJECT_DIR$/sun-auth/sun-auth.iml" />
       <module fileurl="file://$PROJECT_DIR$/sun-eureka/sun-eureka.iml" filepath="$PROJECT_DIR$/sun-eureka/sun-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/sun-eurekaclient/sun-eurekaclient.iml" filepath="$PROJECT_DIR$/sun-eurekaclient/sun-eurekaclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/sun-feign/sun-feign.iml" filepath="$PROJECT_DIR$/sun-feign/sun-feign.iml" />

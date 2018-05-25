@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="sun" />
+        <module name="sun-account" />
+        <module name="sun-auth" />
         <module name="sun-eureka" />
         <module name="sun-eurekaclient" />
         <module name="sun-feign" />
@@ -16,6 +17,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sun" target="1.7" />
+      <module name="sun-account" target="1.8" />
+      <module name="sun-auth" target="1.8" />
       <module name="sun-eureka" target="1.7" />
       <module name="sun-eurekaclient" target="1.7" />
       <module name="sun-feign" target="1.7" />

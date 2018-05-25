@@ -6,9 +6,13 @@
 
   <groupId>com.sun</groupId>
   <artifactId>sun</artifactId>
-  <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>sun-auth</module>
+    </modules>
 
-  <name>sun</name>
+    <name>sun</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

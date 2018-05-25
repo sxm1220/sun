@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/sun-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/sun-feign/pom.xml" />
         <option value="$PROJECT_DIR$/sun-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/sun-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/sun-account/pom.xml" />
       </list>
     </option>
   </component>
