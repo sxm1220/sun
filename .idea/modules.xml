@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sun.iml" filepath="$PROJECT_DIR$/sun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun-eureka/sun-eureka.iml" filepath="$PROJECT_DIR$/sun-eureka/sun-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun-eurekaclient/sun-eurekaclient.iml" filepath="$PROJECT_DIR$/sun-eurekaclient/sun-eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun-feign/sun-feign.iml" filepath="$PROJECT_DIR$/sun-feign/sun-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun-ribbon/sun-ribbon.iml" filepath="$PROJECT_DIR$/sun-ribbon/sun-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sun-zuul/sun-zuul.iml" filepath="$PROJECT_DIR$/sun-zuul/sun-zuul.iml" />
+    </modules>
+  </component>
+</project>
